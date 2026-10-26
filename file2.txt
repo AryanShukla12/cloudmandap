@@ -2,4 +2,8 @@ This is my second file
 
 modify
 
+<<<<<<< HEAD
 modify by dev 1
+=======
+by dev 2
+>>>>>>> 98a89f1960ac99a267a7f0890795b809974d69a4
